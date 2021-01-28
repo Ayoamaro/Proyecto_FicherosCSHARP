@@ -1,5 +1,5 @@
 # Proyecto Ficheros C#
-Realiza en C# un programa que permita trabajar el **Acceso a Ficheros**. Este programa deberá tener una serie de opciones disponibles para el usuario:
+Realiza en **C#** un programa que permita trabajar el **Acceso a Ficheros**. Este programa deberá tener una serie de opciones disponibles para el usuario:
 
 - Listar carpetas y ficheros
 - Crear, eliminar, modificar y mover carpeta
