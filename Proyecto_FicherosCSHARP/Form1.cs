@@ -207,5 +207,6 @@ namespace Proyecto_FicherosCSHARP
                 MessageBox.Show("Es un directorio");
             }
         }
+
     }
 }
