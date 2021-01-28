@@ -13,4 +13,4 @@ Se utilizará **Windows Form** para la interfaz gráfica de la aplciación. **Ad
 
 La interfaz tendrá el siguiente aspecto a la hora de iniciarla:
 
-![](C:\Users\Ayoze\source\repos\Proyecto_FicherosCSHARP\docs\images\interfaz1.png)
+![](https://github.com/Ayoamaro/Proyecto_FicherosCSHARP/blob/main/docs/images/interfaz1.png?raw=true)
